@@ -1,0 +1,22 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+.clock {
+    text-align: center;
+    font-size: 5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.clock-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
